@@ -1,5 +1,7 @@
 # bikesharing
 M14
+[link to dashboard](https://public.tableau.com/app/profile/yanliang.zhu/viz/NYCBike_16321824759950/NYCBikeStory?publish=yes "link to dashboard")
+
 ## Overview
 
 The purpose of the analysis is to examine the NYC Cite Bike usage data, visualize the distribution of data point filter by various category, such as age, gender, and location, in terms of statistical and geological.
